@@ -2,7 +2,7 @@
 ----
 👀 I’m interested in HOW TO BE BETTER THAN NOW!   
 ----
-🌱 I’m currently learning spring mvc, JPA, Thymeleaf
+🌱 I’m currently learning Spring MVC, JPA, Thymeleaf
 ==
 - 📫 How to reach me 
   - 📧 : doydoit@gmail.com
