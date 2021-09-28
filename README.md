@@ -4,6 +4,11 @@
 ----
 🌱 I’m currently learning Spring MVC, JPA, Thymeleaf
 ==
+Last portfolio project is   
+---   
+✔ https://github.com/planetdoy/Spring-MVC-JPA
+
+-------------
 - 📫 How to reach me 
   - 📧 : doydoit@gmail.com
   - Notion : https://www.notion.so/doydoit-gmail-com-3aac88f1310e4bc98122d2a52800a347
