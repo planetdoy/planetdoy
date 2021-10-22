@@ -2,7 +2,7 @@
 ----
 👀 I’m interested in HOW TO BE BETTER THAN NOW!   
 ----
-🌱 I’m currently learning Spring MVC, JPA, Thymeleaf
+🌱 I’m currently learning Spring MVC, REST API SERVER, JPA
 ==
 Last portfolio project is   
 ---   
