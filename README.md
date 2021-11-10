@@ -11,8 +11,7 @@ Last portfolio project is
 -------------
 - 📫 How to reach me 
   - 📧 : doydoit@gmail.com
-  - Resume : https://www.notion.so/doydoit-gmail-com-3aac88f1310e4bc98122d2a52800a347
-  - instagram : https://www.instagram.com/doydo_it/ 
+  - 📷 : https://www.instagram.com/doydo_it/ 
 
 <!---
 planetdoy/planetdoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
